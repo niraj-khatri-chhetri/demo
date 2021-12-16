@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Roboto:ital,wght@0,100;1,100&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Oswald", sans-serif;
+}
+
+h2 {
+  background: red;
+}
+
+.login-form {
+  padding: 20px 4rem;
+  height: auto;
+  width: 40%;
+  margin: 2rem auto;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
